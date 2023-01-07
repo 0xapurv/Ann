@@ -1,0 +1,32 @@
+[1] JUNAID ALI KHAN, SAIF UR REHMAN KHAN, TAMIM AHMED KHAN, AND INAYAT UR REHMAN KHAN. "An Amplified COCOMO-II Based Cost Estimation Model in Global Software Development Context." IEEE - June 2021, DOI: 10.1109/ACCESS.2021.3089870
+[2] Amrita Sharma and Neha Chaudhary."Linear Regression Model for Agile Software Development Effort Estimation" IEEE -  2020, DOI: 10.1109/ICRAIE51050.2020.9358309
+[3] Suyash Shukla, Sandeep Kumar and Pravas Ranjan."Analyzing Effect of Ensemble Models on Multi-Layer Perceptron Network for Software Effort Estimation" IEEE 2019, DOI 10.1109/SERVICES.2019.00116
+[4] Shofiyah Al Idrus, Wahyu Nur Hidayat and Achmad Hamdan."NAYA as a Tool of Software Cost Automatic Analysis" PNBP 2020, DOI: 978-1-7281-8131-8/20/$31.00 ©2020 IEEE
+[5] Muhammad Sufyan Khan, CH Anwar ul Hassan, Munam Ali Shah and Azra Shamim."Software Cost and Effort Estimation using a New Optimization Algorithm Inspired by Strawberry Plant" IEEE 2019.
+[6] Suyash Shukla and Sandeep Kumar."Applicability of Neural Network Based Models for Software Effort Estimation" IEEE 2019, DOI 10.1109/SERVICES.2019.00094
+[7] Faiza Tahir and Mahum Adil."An Empirical Analysis of Cost Estimation Models on Undergraduate Projects Using COCOMO II" IEEE 2018
+[8] Aman Ullah, Bin Wang, Jinfan Sheng, Jun Long, Muhammad Asim and Faiza Riaz."A Novel Technique of Software Cost Estimation Using Flower Pollination Algorithm." ICICAS 2019, DOI 10.1109/ICICAS48597.2019.00142
+[9] ANFAL A. FADHIL , RASHA G. H. ALSARRAJ, AND ATICA M. ALTAIE."Software Cost Estimation Based on Dolphin Algorithm." UM 2020
+[10] Vishnu Sai Desai and Vishnu Sai Desai. "ANN-Cuckoo Optimization Technique to Predict Software Cost Estimation" CICT 18
+[11] Ming Qin, Lianteng Shen, Dahua Zhang. "Deep Learning Model for Function Point Based Software Cost Estimation -An Industry Case Study" ICICAS 2019
+[12] Kento Korenaga Graduate School of National Science and Technology. "Data Smoothing for Software Effort Estimation".
+[13] Riyanarto Sarno, Johannes Sidabutar, and Sarwosri."Comparison of Different Neural Network Architectures for Software Cost Estimation" 2015 International Conference on Computer, Control, Informatics and Its Applications 
+[14] Wilson Rosa, Raymond Madachy, Barry Boehm and Bradford Clark. "Early Phase Cost Models for Agile Software Processes in the US DoD."
+[15] Safa Mohammed Ahmed Suliman and Gada Kadoda."Factors that Influence Software Project Cost and Schedule Estimation" SCCSIT 2017
+[16] Saurabh Bilgaiyan, Samaresh Mishra, Madhabananda Das. "A Review of Software Cost Estimation in Agile Software Development Using Soft Computing Techniques " 2016 International Conference on Computational Intelligence and Networks
+[17] Imam Kurniawan, Arry Akhmad Arman, Sukrisno Mardiyanto."Development of Analogy-Based Estimation Method for Software Development Cost Estimation in Government Agencies" School of Electrical Engineering and Informatics Institut Teknologi Bandung Bandung, Indonesia 2019
+[18] Mustafa Hammad and Abdulla Alqaddoumi."Features-Level Software Effort Estimation Using Machine Learning Algorithms" 3ICT 2018
+[19] Hitesh Kumar Sharma, Ravi Tomar and Ankur Dumka."E-COCOMO: An effort estimation model for cleanroom software development approach" NGCT-2016
+[20] Shahab Nadir, Christina Burggraf and Detlef Streitferdt. "Industrial software developments effort estimation model".
+
+
+
+
+
+
+
+
+
+
+
+
